@@ -1,0 +1,16 @@
+body{
+    background-color: #2ce4c8;
+    text-align: center;
+
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+li{
+    margin: 10px 0;
+}
+a{
+    text-decoration: none;
+    font-size: 18px;
+}

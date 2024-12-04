@@ -1,0 +1,15 @@
+h2{
+    color: red;
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,td{
+    border: 2px solid blue;
+    padding: 10px;
+}
